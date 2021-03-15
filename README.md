@@ -3,10 +3,10 @@ To run app:
 Node.js needs to be installed which include the npm-cli tool.<br>
 You also need a local instance of the lmdb-road-wfs api running. See below.<br>
 
-clone repo to preferred location<br>
-cd to the folder<br>
-npm install (installs the implemented packages needed for the app)<br>
-npm start<br>
+`git clone` repo to preferred location<br>
+`cd` to the folder<br>
+`npm install` (installs the implemented packages needed for the app)<br>
+`npm start`<br>
 
 ### `npm start`
 
