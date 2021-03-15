@@ -1,0 +1,19 @@
+.title-grid {
+    grid-column: 1 / span 2;
+    display: grid;
+    grid-template-columns: 100px auto;
+    text-align: center;
+    background-color: rgb(101, 140, 223);
+    box-shadow: 0 2px 3px #ccc;
+}
+
+.logo {
+    width: 100px;
+}
+
+.title-text {
+    margin: 0;
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+}

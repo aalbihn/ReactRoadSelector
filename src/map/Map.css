@@ -1,0 +1,12 @@
+
+.mapGrid {
+    display: grid;
+    grid-template-columns: 80% auto;
+    grid-template-rows: auto;
+}
+
+.Map { 
+    height: 450px; 
+    width: 100%;
+    box-shadow: 0 2px 3px #ccc;
+}
